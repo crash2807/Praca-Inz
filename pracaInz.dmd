@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="pracaInz" id="F6C57B19-7EBB-B778-DE54-A45BE634E2CD" version="3.5">
+<createdBy>Administrator</createdBy>
+<createdTime>2020-01-04 16:15:15 UTC</createdTime>
+<ownerDesignName>Praca Inż- datamodel</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F6C57B19-7EBB-B778-DE54-A45BE634E2CD</designId>
+</OSDM_Design>
